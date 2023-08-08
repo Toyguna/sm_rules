@@ -1,0 +1,18 @@
+"Phrases"
+{
+	"ErrorDirNotExist"
+	{
+		"en"	"Config file does not exist."
+	}
+	
+	"UpdateRules"
+	{
+		"en"	"Updated rules."
+	}
+
+	"FailFindTitle"
+	{
+    		"#format" "{1:s}"
+		"en"	"Couldn't find rule title '{1}'."
+	}
+}
